@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fitness Club</string>
+    <string name="action_settings">Settings</string>
+    <array name="Titles">
+        <item>ABS</item>
+        <item>BICEPS</item>
+        <item>CHEST</item>
+        <item>SHOULDER</item>
+        <item>TRICEP</item>
+        <item>BACK</item>
+    </array>
+
+</resources>
